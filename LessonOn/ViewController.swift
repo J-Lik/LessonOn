@@ -21,6 +21,7 @@ class ViewController: UIViewController {
         func oneText() {
             print("I m")
 
+
         }
         func tuText() {
             print("love")
