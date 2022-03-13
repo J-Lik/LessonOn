@@ -8,33 +8,48 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    var glopbalLesson = "Global One"
+    var globalLessoTu = "Global Tu"
+    var globalLessoFir = "Global Fri"
+    var golobalLessonFo = "Global Fo"
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        self.oneText()
-        self.tuText()
-        self.friText()
-        self.foText()
+        self.ruAll()
 
     }
         func oneText() {
-            print("I m")
+            var localLesoon = 1
+            print(localLesoon)
+            print(self.glopbalLesson)
 
 
         }
         func tuText() {
-            print("love")
+            var localLesoonTu = 2
+            print(localLesoonTu)
+            print(self.globalLessoTu)
 
         }
         func friText() {
-            print("devolopen")
+            var localLesoonFri = 3
+            print(localLesoonFri)
+            print(self.globalLessoFir)
 
         }
         func foText() {
-            print("iOS")
+            var localLesoonFo = 4
+            print(localLesoonFo)
+            print(self.golobalLessonFo)
 
         }
+        func ruAll() {
+            self.oneText()
+            self.tuText()
+            self.friText()
+            self.foText()
+        }
+
 
 }
 
