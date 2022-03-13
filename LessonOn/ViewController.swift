@@ -12,23 +12,27 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
+        self.oneText()
+        self.tuText()
+        self.friText()
+        self.foText()
 
     }
         func oneText() {
             print("I m")
-            self.oneText()
+
         }
         func tuText() {
             print("love")
-            self.tuText()
+
         }
         func friText() {
             print("devolopen")
-            self.friText()
+
         }
         func foText() {
             print("iOS")
-            self.foText()
+
         }
 
 }
