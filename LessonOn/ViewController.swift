@@ -11,9 +11,25 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
-    }
 
+
+    }
+        func oneText() {
+            print("I m")
+            self.oneText()
+        }
+        func tuText() {
+            print("love")
+            self.tuText()
+        }
+        func friText() {
+            print("devolopen")
+            self.friText()
+        }
+        func foText() {
+            print("iOS")
+            self.foText()
+        }
 
 }
 

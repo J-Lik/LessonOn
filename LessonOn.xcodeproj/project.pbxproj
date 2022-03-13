@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		F46382ED27DE32870069C4EF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F46382EC27DE32870069C4EF /* AppDelegate.swift */; };
-		F46382EF27DE32870069C4EF /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F46382EE27DE32870069C4EF /* SceneDelegate.swift */; };
 		F46382F127DE32870069C4EF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F46382F027DE32870069C4EF /* ViewController.swift */; };
 		F46382F427DE32870069C4EF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F46382F227DE32870069C4EF /* Main.storyboard */; };
 		F46382F627DE32890069C4EF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F46382F527DE32890069C4EF /* Assets.xcassets */; };
@@ -18,7 +17,6 @@
 /* Begin PBXFileReference section */
 		F46382E927DE32870069C4EF /* LessonOn.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LessonOn.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F46382EC27DE32870069C4EF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		F46382EE27DE32870069C4EF /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		F46382F027DE32870069C4EF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		F46382F327DE32870069C4EF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		F46382F527DE32890069C4EF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -57,7 +55,6 @@
 			isa = PBXGroup;
 			children = (
 				F46382EC27DE32870069C4EF /* AppDelegate.swift */,
-				F46382EE27DE32870069C4EF /* SceneDelegate.swift */,
 				F46382F027DE32870069C4EF /* ViewController.swift */,
 				F46382F227DE32870069C4EF /* Main.storyboard */,
 				F46382F527DE32890069C4EF /* Assets.xcassets */,
@@ -140,7 +137,6 @@
 			files = (
 				F46382F127DE32870069C4EF /* ViewController.swift in Sources */,
 				F46382ED27DE32870069C4EF /* AppDelegate.swift in Sources */,
-				F46382EF27DE32870069C4EF /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
