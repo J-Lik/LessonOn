@@ -16,6 +16,11 @@ class ViewController: UIViewController {
         super.viewDidLoad()
 
         self.ruAll()
+        Constans.oneConastans
+        let oneNamber = Constans.oneConastans
+        print(oneNamber)
+        Constans.tuCostans()
+
 
     }
         func oneText() {
