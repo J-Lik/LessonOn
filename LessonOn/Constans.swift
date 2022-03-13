@@ -9,6 +9,6 @@ class Constans {
     static let oneConastans = 10
 
     static func tuCostans() {
-        print("I m good man")
+        print("I m good ma")
     }
 }

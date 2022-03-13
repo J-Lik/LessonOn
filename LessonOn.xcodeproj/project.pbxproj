@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		30F4DAE2D37382B5F7B55CDE /* Constans.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30F4D901C574FE97CBE5099C /* Constans.swift */; };
 		F46382ED27DE32870069C4EF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F46382EC27DE32870069C4EF /* AppDelegate.swift */; };
 		F46382F127DE32870069C4EF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F46382F027DE32870069C4EF /* ViewController.swift */; };
 		F46382F427DE32870069C4EF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F46382F227DE32870069C4EF /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		30F4D901C574FE97CBE5099C /* Constans.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constans.swift; sourceTree = "<group>"; };
 		F46382E927DE32870069C4EF /* LessonOn.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LessonOn.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F46382EC27DE32870069C4EF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F46382F027DE32870069C4EF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				F46382F527DE32890069C4EF /* Assets.xcassets */,
 				F46382F727DE32890069C4EF /* LaunchScreen.storyboard */,
 				F46382FA27DE32890069C4EF /* Info.plist */,
+				30F4D901C574FE97CBE5099C /* Constans.swift */,
 			);
 			path = LessonOn;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			files = (
 				F46382F127DE32870069C4EF /* ViewController.swift in Sources */,
 				F46382ED27DE32870069C4EF /* AppDelegate.swift in Sources */,
+				30F4DAE2D37382B5F7B55CDE /* Constans.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
